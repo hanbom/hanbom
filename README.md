@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EBDEF0&height=100&section=header&text=about%20me&fontSize=40)
 
-<center> ### Hi, There. My name is hanbom. 👋 </center>
-<center> I'm trying to become a web developer. 💁‍♀️ </center>  
-<center> have a good day! 🌟 </center>
+<center>
+
+### Hi, There. My name is hanbom. 👋
+I'm trying to become a web developer. 💁‍♀️ 
+have a good day! 🌟 
+
+</center>
 
 
 
