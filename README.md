@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EBDEF0&height=100&section=header&text=about%20me&fontSize=40)
 
 </br>
-</br>
 
 <div align=center> 
 
@@ -9,7 +8,6 @@
 I'm trying to become a web developer. 💁‍♀️ 
 have a good day! 🌟 
 
-  </br>
   </br>
 
 ### ⛏️ Stack 🔧
