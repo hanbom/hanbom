@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=EBDEF0&height=100&section=header&text=about%20me&fontSize=40)
 
+</br>
+</br>
+
 <div align=center> 
 
 ### Hi, There. My name is hanbom. 👋
 I'm trying to become a web developer. 💁‍♀️ 
 have a good day! 🌟 
+
   </br>
   </br>
   </br>
+
 ### ⛏️ Stack 🔧
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
