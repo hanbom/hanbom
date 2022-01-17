@@ -6,14 +6,13 @@
 I'm trying to become a web developer. 💁‍♀️ 
 have a good day! 🌟 
 
-</div>
-
 
 
 
 ### ⛏️ Stack 🔧
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
+</div>
 
 <!--
 **Hanbom/Hanbom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
