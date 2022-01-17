@@ -5,7 +5,7 @@
 <div align=center> 
 
 ### Hi, There. My name is hanbom. 👋
-I'm trying to become a web developer. 💁‍♀️ 
+I'm trying to become a web developer. 💁‍♀️ </br>
 have a good day! 🌟 
 
   </br>
