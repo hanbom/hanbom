@@ -15,7 +15,7 @@ have a good day! 🌟
 
 </div>
 
-!(https://capsule-render.vercel.app/api?type=slice&color=EBDEF0&height=150&section=header&text=about%20me&rotate=6&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=EBDEF0&height=150&section=header&text=about%20me&rotate=6&fontSize=40)
 
 <!--
 **Hanbom/Hanbom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
